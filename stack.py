@@ -1,5 +1,5 @@
 class Stack:
-    def __init__(self):
+    def __init__(sel):
         self.items = []
 
     def push(self, item):
