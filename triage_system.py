@@ -1,7 +1,7 @@
 import heapq
 
 class TriageSystem:
-    _arrival_counter = 0  # class-level counter
+    _arrival_counter = 0 
 
     def __init__(self):
         self._queue = []
