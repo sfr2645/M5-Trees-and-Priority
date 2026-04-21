@@ -23,6 +23,7 @@
   <ItemGroup>
     <Compile Include="binary_expression_tree.py" />
     <Compile Include="M5_Trees_and_Priority.py" />
+    <Compile Include="main.py" />
     <Compile Include="stack.py" />
     <Compile Include="triage_system.py" />
   </ItemGroup>
