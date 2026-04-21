@@ -24,6 +24,7 @@
     <Compile Include="binary_expression_tree.py" />
     <Compile Include="M5_Trees_and_Priority.py" />
     <Compile Include="stack.py" />
+    <Compile Include="triage_system.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
