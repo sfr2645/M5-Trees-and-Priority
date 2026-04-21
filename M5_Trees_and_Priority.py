@@ -1,4 +1,4 @@
-from binary_expressiontree import BinaryExpressionTree
+from binary_expression_tree import BinaryExpressionTree
 
 def main():
     postfix_list = [
