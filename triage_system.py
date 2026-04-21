@@ -17,7 +17,6 @@ class TriageSystem:
             raise ValueError("Invalid name or severity (1–5 required)")
 
         order = self._next_arrival_order()
-        # Use negative severity because heapq is min-heap
         heapq.heappush(self._queue, (-severity, order, name, severity))
 
     def process_next(self):
